@@ -86,4 +86,6 @@ Com este projeto, foi possível desenvolver habilidades importantes como:
 ## 📷 Prévia do projeto
 > Projeto acadêmico desenvolvido com foco em interatividade, lógica de programação e aplicação prática no mercado freelancer.
 
-![Preview do projeto](previa.png)
+<p align="center">
+  <img src="img/previa.png" alt="Preview do projeto" width="800">
+</p>
