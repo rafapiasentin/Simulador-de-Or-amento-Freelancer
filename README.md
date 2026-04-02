@@ -5,15 +5,6 @@ Este projeto foi desenvolvido durante as aulas de **Front-End** com o professor 
 
 A proposta consiste em um **Simulador de Orçamento Freelancer**, onde um possível cliente pode visualizar diferentes serviços da área de TI, adicioná-los ao orçamento e acompanhar o valor total atualizado dinamicamente na tela.
 
----
-
-## 📷 Prévia do projeto
-
-<p align="center">
-  <img src="img/preview.png" alt="Preview do projeto" width="900">
-</p>
-
----
 
 ## 🎯 Objetivo
 O principal objetivo do projeto foi unir a lógica de programação com uma necessidade real do mercado freelancer: a **precificação de serviços de tecnologia**.
