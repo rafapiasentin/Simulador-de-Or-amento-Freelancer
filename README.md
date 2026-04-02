@@ -1,9 +1,17 @@
 # 💼 Simulador de Orçamento Freelancer
 
 ## 📌 Sobre o projeto
-Este projeto foi desenvolvido durante as aulas de **Front-End** com o **[Leonardo Rocha](https://www.linkedin.com/in/leonardossrocha/)**, com o objetivo de aplicar na prática os conceitos de **HTML, CSS e JavaScript** na criação de uma aplicação interativa voltada para uma situação real do mercado de tecnologia.
+Este projeto foi desenvolvido durante as aulas de **Front-End** com o professor **[Leonardo Rocha](https://www.linkedin.com/in/leonardossrocha/)**, com o objetivo de aplicar na prática os conceitos de **HTML, CSS e JavaScript** na criação de uma aplicação interativa voltada para uma situação real do mercado de tecnologia.
 
 A proposta consiste em um **Simulador de Orçamento Freelancer**, onde um possível cliente pode visualizar diferentes serviços da área de TI, adicioná-los ao orçamento e acompanhar o valor total atualizado dinamicamente na tela.
+
+---
+
+## 📷 Prévia do projeto
+
+<p align="center">
+  <img src="img/preview.png" alt="Preview do projeto" width="900">
+</p>
 
 ---
 
@@ -61,7 +69,7 @@ O sistema foi montado com base em serviços comuns da área de TI, como:
 ---
 
 ## 👨‍🏫 Desenvolvimento acadêmico
-Este projeto foi desenvolvido como atividade prática acadêmica durante as aulas com o **[Leonardo Rocha](https://www.linkedin.com/in/leonardossrocha/)**, buscando aproximar os conteúdos estudados em sala da realidade profissional de um desenvolvedor freelancer.
+Este projeto foi desenvolvido como atividade prática acadêmica durante as aulas com o professor **[Leonardo Rocha](https://www.linkedin.com/in/leonardossrocha/)**, buscando aproximar os conteúdos estudados em sala da realidade profissional de um desenvolvedor freelancer.
 
 ---
 
@@ -80,12 +88,3 @@ Com este projeto, foi possível desenvolver habilidades importantes como:
 **Rafael Piasentin**  
 [LinkedIn](https://linkedin.com/in/rafael-piasentin-b22149256/)  
 [Instagram](https://instagram.com/rafapiasentin)
-
----
-
-## 📷 Prévia do projeto
-> Projeto acadêmico desenvolvido com foco em interatividade, lógica de programação e aplicação prática no mercado freelancer.
-
-<p align="center">
-  <img src="img/previa.png" alt="Preview do projeto" width="800">
-</p>
