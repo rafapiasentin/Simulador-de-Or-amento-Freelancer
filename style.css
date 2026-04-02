@@ -1,0 +1,163 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #acacac;
+    color: #fff;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 2rem 1rem;
+}
+
+header p {
+    margin-top: 0.5rem;
+    color: #dcdcdc;
+}
+
+main {
+    width: 90%;
+    max-width: 1200px;
+    margin: 2rem auto;
+}
+
+h2 {
+    text-align: center;
+    color: #222;
+    margin-bottom: 2rem;
+}
+
+.categoria {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+}
+
+.produto {
+    background-color: #333;
+    border-radius: 12px;
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    transition: transform 0.2s ease;
+}
+
+.produto:hover {
+    transform: translateY(-5px);
+}
+
+.produto h3 {
+    margin-bottom: 0.5rem;
+}
+
+.produto p {
+    color: #d6d6d6;
+    font-size: 0.95rem;
+    min-height: 50px;
+}
+
+.preco {
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #f4f4f4;
+    margin: 1rem 0;
+}
+
+.contratar {
+    background-color: #4e4d4d;
+    color: #fff;
+    border: none;
+    padding: 0.7rem 1.2rem;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.contratar:hover {
+    background-color: #858383;
+}
+
+#orcamentos {
+    background-color: #333;
+    padding: 2rem;
+    border-radius: 12px;
+    margin-top: 3rem;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+#orcamentos h2 {
+    color: #fff;
+}
+
+#lista-de-orcamentos {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 1rem;
+}
+
+#lista-de-orcamentos li {
+    background-color: #4e4d4d;
+    padding: 0.8rem;
+    border-radius: 6px;
+    margin-bottom: 0.7rem;
+}
+
+#total {
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin: 1rem 0;
+}
+
+#finalizar-orcamento {
+    background-color: #4e4d4d;
+    border: none;
+    color: #fff;
+    padding: 0.8rem 1.2rem;
+    cursor: pointer;
+    border-radius: 6px;
+    transition: background-color 0.2s ease;
+}
+
+#finalizar-orcamento:hover {
+    background-color: #858383;
+}
+
+#contato {
+    text-align: center;
+    margin-top: 3rem;
+    color: #222;
+}
+
+.redes-sociais a {
+    background-color: #4e4d4d;
+    color: #f4f4f4;
+    display: inline-block;
+    padding: 0.7rem 1.2rem;
+    border-radius: 6px;
+    text-decoration: none;
+    margin: 0.5rem;
+    transition: background-color 0.2s ease;
+}
+
+.redes-sociais a:hover {
+    background-color: #858383;
+}
+
+footer {
+    text-align: center;
+    padding: 1.5rem 1rem;
+    background-color: #333;
+    color: #fff;
+    margin-top: 3rem;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
